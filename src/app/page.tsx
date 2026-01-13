@@ -21,6 +21,7 @@ export default function Home() {
             alt=""
             width={400}
             height={300}
+            priority
             className="rounded-lg shadow-lg"
           />
         </div>

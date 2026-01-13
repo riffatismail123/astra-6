@@ -11,6 +11,7 @@ export default function About() {
             alt="riffat-ismail"
             width={300}
             height={400}
+            priority
             className="rounded-lg shadow-lg"
           />
         </div>
